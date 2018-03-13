@@ -1,6 +1,6 @@
 # 2018-03-12
 
-先记录一个有点难度的JS面试题
+* ### 先记录一个有点难度的JS面试题
 
 ```js
 function test(){
@@ -27,11 +27,11 @@ result2.add();  //    函数封装好之后，result和result2各自有自己的
 
 所以最后的输出结果：4400、4401、4399、4400
 
-涉及到了闭包、变量作用域的问题，附录一个阮一峰大神关于JavaScript闭包的帖子[http://www.ruanyifeng.com/blog/2009/08/learning\\_javascript\\_closures.html](http://www.ruanyifeng.com/blog/2009/08/learning\_javascript\_closures.html)
+涉及到了闭包、变量作用域的问题，附录一个阮一峰大神关于JavaScript闭包的帖子[http://www.ruanyifeng.com/blog/2009/08/learning\\_javascript\\_closures.html](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
-移动端web的click时间具有延迟性，比正常反应延迟0.2s
+* ### 移动端web的click时间具有延迟性，比正常反应延迟0.2s
 
-页面加载过程，就是输入url到加载出页面
+* ### 页面加载过程，就是输入url到加载出页面
 
 1. 输入地址
 
@@ -41,7 +41,7 @@ result2.add();  //    函数封装好之后，result和result2各自有自己的
 
 4. 浏览器向 web 服务器发送一个 HTTP 请求
 
-5. 服务器的永久重定向响应从(http://example.com) 到 (http://www.example.com/)
+5. 服务器的永久重定向响应从\([http://example.com](http://example.com)\) 到 \([http://www.example.com/](http://www.example.com/)\)
 
 6. 浏览器跟踪重定向地址
 
