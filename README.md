@@ -1,7 +1,7 @@
 # GodGC的前端学习之路
 
-##new
-更新个人blog:www.godrry.xyz
+## new
+个人blog:www.godrry.xyz
 学习中过程的记录将在记录在blog中~
 
 
